@@ -1,0 +1,130 @@
+{
+  "tracks": [
+    {
+      "artist": "Taylor Swift",
+      "album": "1989",
+      "track": "This Love",
+      "uri": "spotify:track:1kTPQnabROVkW9bUXdCGrB"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "Red",
+      "track": "All Too Well",
+      "uri": "spotify:track:1q3RiD1tIWUpGsNFADMlvl"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "folklore",
+      "track": "this is me trying",
+      "uri": "spotify:track:7cm50Lw03k6VvRauJtkyTj"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "Lover",
+      "track": "The Archer",
+      "uri": "spotify:track:3pHkh7d0lzM2AldUtz2x37"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "1989",
+      "track": "Wildest Dreams",
+      "uri": "spotify:track:106R7Z57WYzBAfrXImV30y"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "1989",
+      "track": "Style",
+      "uri": "spotify:track:1fo2ctLqj3zBhRQKOXprol"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "1989",
+      "track": "Wonderland",
+      "uri": "spotify:track:6iWMI5oOhWrDbLbjmwTWFq"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "reputation",
+      "track": "End Game",
+      "uri": "spotify:track:2x0WlnmfG39ZuDmstl9xfX"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "Fearless Platinum Edition",
+      "track": "Love Story",
+      "uri": "spotify:track:0kN3oXYWWAk1uC0y2WoyOE"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "Lover",
+      "track": "Afterglow",
+      "uri": "spotify:track:1SymEzIT3H8UZfibCs3TYi"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "Lover",
+      "track": "Lover",
+      "uri": "spotify:track:1dGr1c8CrMLDpV6mPbImSI"
+    }
+  ],
+  "albums": [
+    {
+      "artist": "Taylor Swift",
+      "album": "folklore",
+      "uri": "spotify:album:2fenSS68JI1h4Fo296JfGr"
+    },
+    {
+      "artist": "Thrice",
+      "album": "Palms",
+      "uri": "spotify:album:33QALYQaToksvmXeDxqBvE"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "folklore",
+      "uri": "spotify:album:1pzvBxYgT6OVwJLtHkrdQK"
+    },
+    {
+      "artist": "Amanda Lindsey Cook",
+      "album": "House on a Hill",
+      "uri": "spotify:album:1knRBteR8rH7zMm6vL7hma"
+    }
+  ],
+  "shows": [
+    {
+      "name": "An Oral History of The Office",
+      "publisher": "Propagate Content",
+      "uri": "spotify:show:5T1519uHGVd6Te2xF5tKkR"
+    },
+    {
+      "name": "Binge Mode: Marvel",
+      "publisher": "The Ringer",
+      "uri": "spotify:show:6u8aqT4yaqnXiAwSHQP0NN"
+    },
+    {
+      "name": "Nos Audietis",
+      "publisher": "Nos Audietis",
+      "uri": "spotify:show:0OQwzrDghWbSkXUxzRZLHr"
+    },
+    {
+      "name": "Side x Side With Zak And Brad",
+      "publisher": "Seattle Sounders FC ",
+      "uri": "spotify:show:5JGK4WezgczbEBcNCcou7M"
+    },
+    {
+      "name": "The Daily",
+      "publisher": "The New York Times",
+      "uri": "spotify:show:3IM0lmZxpFAY7CwMuv9H4g"
+    },
+    {
+      "name": "The Sleeping At Last Podcast",
+      "publisher": "Sleeping At Last",
+      "uri": "spotify:show:2dI7TNKc4nYbn79ohXo1Xl"
+    }
+  ],
+  "episodes": [
+  ],
+  "bannedTracks": [
+  ],
+  "other": [
+  ]
+}

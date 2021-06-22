@@ -1,0 +1,13 @@
+{
+  "account": {
+    "email": "camerondeanp@gmail.com",
+    "fullName": "Cameron Pugh"
+  },
+  "teams": [
+    {
+      "teamName": "WunderBoy",
+      "accessLevel": "Admin",
+      "role": "artist"
+    }
+  ]
+}

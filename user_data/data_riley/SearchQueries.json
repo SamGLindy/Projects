@@ -1,0 +1,27 @@
+[
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2021-03-05T16:42:15.555Z[UTC]",
+    "searchQuery" : "taylor",
+    "searchInteractionURIs" : [
+      "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2021-04-20T19:05:36.368Z[UTC]",
+    "searchQuery" : "1989",
+    "searchInteractionURIs" : [
+      "spotify:album:34OkZVpuzBa9y40DCy0LPR"
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2021-05-16T07:41:35.755Z[UTC]",
+    "searchQuery" : "olivi",
+    "searchInteractionURIs" : [
+      "spotify:artist:1McMsnEElThX1knmY4oliG",
+      "spotify:artist:1McMsnEElThX1knmY4oliG"
+    ]
+  }
+]

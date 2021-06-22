@@ -1,0 +1,313 @@
+[
+  {
+    "platform" : "WEB",
+    "searchTime" : "2021-03-08T22:32:15.392Z[UTC]",
+    "searchQuery" : "snoop dogg",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WEB",
+    "searchTime" : "2021-03-08T22:35:15.750Z[UTC]",
+    "searchQuery" : "gin and juice",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WEB",
+    "searchTime" : "2021-03-08T22:36:30.434Z[UTC]",
+    "searchQuery" : "One two three",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WEB",
+    "searchTime" : "2021-03-08T22:36:42.183Z[UTC]",
+    "searchQuery" : "The Chronic",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2021-03-12T16:20:42.602Z[UTC]",
+    "searchQuery" : "sittin ",
+    "searchInteractionURIs" : [
+      "spotify:track:3zBhihYUHBmGd2bcQIobrF",
+      "spotify:track:3zBhihYUHBmGd2bcQIobrF",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2021-03-12T16:21:47.997Z[UTC]",
+    "searchQuery" : "stevie",
+    "searchInteractionURIs" : [
+      "spotify:artist:7guDJrEfX3qb6FEbdPA5qi",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2021-03-12T16:23:03.996Z[UTC]",
+    "searchQuery" : "ray charles",
+    "searchInteractionURIs" : [
+      "spotify:artist:1eYhYunlNJlDoQhtYBvPsi",
+      "spotify:playlist:37i9dQZF1DZ06evO0FPX4A",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2021-03-12T16:25:07.744Z[UTC]",
+    "searchQuery" : "nat king cole",
+    "searchInteractionURIs" : [
+      "spotify:artist:7v4imS0moSyGdXyLgVTIV7",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2021-03-12T16:26:49.809Z[UTC]",
+    "searchQuery" : "eddie",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZF1DZ06evO1GJL9f",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2021-03-18T00:55:47.909Z[UTC]",
+    "searchQuery" : "eddie ",
+    "searchInteractionURIs" : [
+      "spotify:artist:2VviFtXYreO6Zn9n8Ibk6C"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2021-03-21T02:50:18.384Z[UTC]",
+    "searchQuery" : "mac miller",
+    "searchInteractionURIs" : [
+      "spotify:artist:4LLpKhyESsyAXpc4laK94U"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2021-03-26T01:13:00.056Z[UTC]",
+    "searchQuery" : "moana",
+    "searchInteractionURIs" : [
+      "spotify:album:6pZj4nvx6lV3ulIK3BSjvs"
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2021-04-02T15:10:19.073Z[UTC]",
+    "searchQuery" : "morning",
+    "searchInteractionURIs" : [
+      "spotify:playlist:3xPYaGhTUK0In6ucqZN2Sx",
+      "spotify:playlist:37i9dQZF1DXcgZcN2HVMoe"
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2021-04-17T02:34:41.849Z[UTC]",
+    "searchQuery" : "bodies",
+    "searchInteractionURIs" : [
+      "spotify:track:5mueyPaJsGl0bGiZSu1z0e"
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2021-04-18T00:26:32.425Z[UTC]",
+    "searchQuery" : "dont push",
+    "searchInteractionURIs" : [
+      "spotify:track:4FlWVsDRnYa28oJSAApL4t",
+      "spotify:track:3OFTdZGN3Y7XjZFpO5jzJ1"
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2021-04-21T14:33:35.127Z[UTC]",
+    "searchQuery" : "morning",
+    "searchInteractionURIs" : [
+      "spotify:playlist:6mgWUWQhvRnkuxUZaE96vZ",
+      "spotify:playlist:37i9dQZF1DX3ohNxI5tB79"
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2021-04-21T14:51:32.304Z[UTC]",
+    "searchQuery" : "kicky fee",
+    "searchInteractionURIs" : [
+      "spotify:playlist:6PksMT9Fq65gl2baPKl0lQ"
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2021-04-24T00:19:36.113Z[UTC]",
+    "searchQuery" : "friday dinner",
+    "searchInteractionURIs" : [
+      "spotify:playlist:4NBl3TqkZzCmwbgEewUq0M",
+      "spotify:playlist:0OPfCOFujWiz6cvGbrVIhN"
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2021-04-24T03:24:18.023Z[UTC]",
+    "searchQuery" : "musiq soul",
+    "searchInteractionURIs" : [
+      "spotify:artist:3UVRliakQfa1pMWIsNuiZ8"
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2021-04-25T20:03:17.310Z[UTC]",
+    "searchQuery" : "baller",
+    "searchInteractionURIs" : [
+      "spotify:track:6lEIjrQNwJPecJ7mMXjhjo"
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2021-05-01T21:18:09.852Z[UTC]",
+    "searchQuery" : "pools",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZF1DZ06evO3df4Nq"
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2021-05-05T00:03:33.567Z[UTC]",
+    "searchQuery" : "paul si",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZF1E4EwIYX21kwnw"
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2021-05-12T15:01:21.974Z[UTC]",
+    "searchQuery" : "fleetw",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZF1E4tZxYcBZfDn9"
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2021-05-13T22:36:10.435Z[UTC]",
+    "searchQuery" : "tower of ",
+    "searchInteractionURIs" : [
+      "spotify:artist:0JCxGVxsISZzJHJPUOtceB"
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2021-05-21T04:27:31.782Z[UTC]",
+    "searchQuery" : "iz",
+    "searchInteractionURIs" : [
+      "spotify:artist:4ogvuDRerGhZfSf7TtzHlr"
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2021-05-21T20:18:32.003Z[UTC]",
+    "searchQuery" : "beach",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZF1DX83I5je4W4rP",
+      "spotify:playlist:45yGhfilm3EPcrTynAq4pF",
+      "spotify:playlist:37i9dQZF1DX83I5je4W4rP"
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2021-05-21T20:19:53.140Z[UTC]",
+    "searchQuery" : "jack johns",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZF1E4tI8s3dUWJhf"
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2021-05-22T05:48:12.098Z[UTC]",
+    "searchQuery" : "redbone remix",
+    "searchInteractionURIs" : [
+      "spotify:playlist:0wfyWIQAjC6CQPY7s6WVjr"
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2021-05-22T06:45:28.459Z[UTC]",
+    "searchQuery" : "pink sequins",
+    "searchInteractionURIs" : [
+      "spotify:track:26tAr0KSZynMJ2lncWBl9e"
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2021-05-22T23:28:02.075Z[UTC]",
+    "searchQuery" : "jurr",
+    "searchInteractionURIs" : [
+      "spotify:playlist:0BKzR1GvYByQXDY8iudPLr"
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2021-05-22T23:34:12.506Z[UTC]",
+    "searchQuery" : "elton ",
+    "searchInteractionURIs" : [
+      "spotify:artist:3PhoLpVuITZKcymswpck5b"
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2021-05-23T00:25:03.934Z[UTC]",
+    "searchQuery" : "yell",
+    "searchInteractionURIs" : [
+      "spotify:artist:0WbqAlM1WvfUD6dF7omThd"
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2021-05-23T00:46:41.217Z[UTC]",
+    "searchQuery" : "dance 90s",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2021-05-23T17:35:03.543Z[UTC]",
+    "searchQuery" : "morning",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZF1DX3ohNxI5tB79"
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2021-05-24T05:34:52.965Z[UTC]",
+    "searchQuery" : "sarah schmidt",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2021-05-24T05:35:18.136Z[UTC]",
+    "searchQuery" : "robyn",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZF1E4oC7XcqhUnFn"
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2021-05-24T06:10:54.974Z[UTC]",
+    "searchQuery" : "call your",
+    "searchInteractionURIs" : [
+      "spotify:track:2sCoROOlNQyFpRQEe6A5lv"
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2021-05-24T17:19:51.122Z[UTC]",
+    "searchQuery" : "kn",
+    "searchInteractionURIs" : [
+      "spotify:artist:2x7EATekOPhFGRx3syMGEC"
+    ]
+  }
+]

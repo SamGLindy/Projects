@@ -1,0 +1,137 @@
+[
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2021-03-03T00:32:24.045Z[UTC]",
+    "searchQuery" : "land of t",
+    "searchInteractionURIs" : [
+      "spotify:show:6DdYNi0EakNKPDuONnWiam"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2021-03-03T19:05:38.202Z[UTC]",
+    "searchQuery" : "sway",
+    "searchInteractionURIs" : [
+      "spotify:show:44fllCS2FTFr2x2kjP9xeT"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2021-03-17T00:43:05.589Z[UTC]",
+    "searchQuery" : "star i",
+    "searchInteractionURIs" : [
+      "spotify:album:4sLtOBOzn4s3GDUv3c5oJD",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2021-04-10T19:34:33.448Z[UTC]",
+    "searchQuery" : "jac",
+    "searchInteractionURIs" : [
+      "spotify:artist:5lkiCO9UQ8B23dZ1o0UV4m"
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2021-04-25T18:32:56.978Z[UTC]",
+    "searchQuery" : "hade",
+    "searchInteractionURIs" : [
+      "spotify:album:1J1yxODbNlqKbwRqJxYJUP"
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2021-04-25T18:42:43.029Z[UTC]",
+    "searchQuery" : "hade",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2021-04-27T23:44:45.026Z[UTC]",
+    "searchQuery" : "goldberg ",
+    "searchInteractionURIs" : [
+      "spotify:album:1aCpHSQE5ghxibsQ5gkBe0"
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2021-04-27T23:53:57.209Z[UTC]",
+    "searchQuery" : "beethoven er",
+    "searchInteractionURIs" : [
+      "spotify:album:2NPiFjalwMMRuBz1H9NuPZ"
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2021-04-29T14:20:09.477Z[UTC]",
+    "searchQuery" : "zimerman",
+    "searchInteractionURIs" : [
+      "spotify:artist:43wuPaPcZVMJQWLRaPR4Yz"
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2021-04-29T14:21:35.230Z[UTC]",
+    "searchQuery" : "zimerman symp",
+    "searchInteractionURIs" : [
+      "spotify:album:1IKSiDTwCfw2TUs9WjnQ8A"
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2021-05-03T03:36:19.805Z[UTC]",
+    "searchQuery" : "going deep",
+    "searchInteractionURIs" : [
+      "spotify:show:4XCSeTEStMJcVFyFMIGFV1"
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2021-05-04T14:25:18.898Z[UTC]",
+    "searchQuery" : "class",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZF1DWWEJlAGA9gs0"
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2021-05-15T17:09:05.160Z[UTC]",
+    "searchQuery" : "zimmerman",
+    "searchInteractionURIs" : [
+      "spotify:playlist:4XmMhJyrXFO1E92OuCVI9o"
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2021-05-20T00:37:13.904Z[UTC]",
+    "searchQuery" : "hamilt",
+    "searchInteractionURIs" : [
+      "spotify:album:1kCHru7uhxBUdzkm4gzRQc"
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2021-05-20T00:43:01.452Z[UTC]",
+    "searchQuery" : "queen",
+    "searchInteractionURIs" : [
+      "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2021-05-20T00:51:30.535Z[UTC]",
+    "searchQuery" : "queen",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2021-05-20T15:00:23.478Z[UTC]",
+    "searchQuery" : "the week",
+    "searchInteractionURIs" : [
+      "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+    ]
+  }
+]

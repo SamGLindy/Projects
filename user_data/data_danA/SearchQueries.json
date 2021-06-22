@@ -1,0 +1,48 @@
+[
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2021-03-13T01:20:36.604Z[UTC]",
+    "searchQuery" : "concert",
+    "searchInteractionURIs" : [
+      "spotify:app:concerts"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2021-03-27T05:58:06.817Z[UTC]",
+    "searchQuery" : "CAT",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2021-03-27T05:58:13.587Z[UTC]",
+    "searchQuery" : "cat c",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2021-03-27T07:20:20.943Z[UTC]",
+    "searchQuery" : "ag",
+    "searchInteractionURIs" : [
+      "spotify:track:6ATqL4f1nFWwASrWi8nF6e"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-04-07T00:58:40.188Z[UTC]",
+    "searchQuery" : "chrome",
+    "searchInteractionURIs" : [
+      "spotify:artist:2mV8aJphiSHYJf43DxL7Gt"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-05-08T03:38:12.380Z[UTC]",
+    "searchQuery" : "new",
+    "searchInteractionURIs" : [
+      "spotify:artist:4ghjRm4M2vChDfTUycx0Ce"
+    ]
+  }
+]
